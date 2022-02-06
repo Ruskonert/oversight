@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.krax.oversight.OversightSerializerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T14:18:04" hostname="DESKTOP-QUMCR62" time="0.002">
+  <properties/>
+  <testcase name="test" classname="me.krax.oversight.OversightSerializerTest" time="0.002"/>
+  <system-out><![CDATA[[2020/12/18 23:18:04][DEBUG] Attempting register type -> [class me.krax.oversight.OversightSerializerTest$OversightSample], which object id is [class me.krax.oversight.OversightSerializerTest$OversightSample@62ff75ca9b344fd7a6c28da40f99248f]
+[2020/12/18 23:18:04][DEBUG] The independent collector is created successfully: [class me.krax.oversight.OversightSerializerTest$OversightSample@62ff75ca9b344fd7a6c28da40f99248f]
+[2020/12/18 23:18:04][DEBUG] Creating Object[e6e134b37fc1454bb9760eb9f19e14e2]
+[2020/12/18 23:18:04][WARN] Object[me.krax.oversight.OversightSerializerTest$OversightSample@e6e134b37fc1454bb9760eb9f19e14e2] registered successfully from class me.krax.oversight.OversightSerializerTest$OversightSample@62ff75ca9b344fd7a6c28da40f99248f
+[2020/12/18 23:18:04][WARN] Enabled Object[e6e134b37fc1454bb9760eb9f19e14e2], Hooked by independent collector -> [me.krax.oversight.OversightSerializerTest$OversightSample@class me.krax.oversight.OversightSerializerTest$OversightSample@62ff75ca9b344fd7a6c28da40f99248f]
+[2020/12/18 23:18:04][DEBUG] Object[me.krax.oversight.OversightSerializerTest$OversightSample::e6e134b37fc1454bb9760eb9f19e14e2]: created complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

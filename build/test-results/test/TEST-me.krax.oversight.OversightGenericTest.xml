@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.krax.oversight.OversightGenericTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T14:18:04" hostname="DESKTOP-QUMCR62" time="0.002">
+  <properties/>
+  <testcase name="test" classname="me.krax.oversight.OversightGenericTest" time="0.002"/>
+  <system-out><![CDATA[[2020/12/18 23:18:04][DEBUG] Creating Object[6626826f66aa4088a16a3aac0cafd0c1]
+[2020/12/18 23:18:04][WARN] Not existed collector of Object[me.krax.oversight.OversightGenericTest$OversightSample@6626826f66aa4088a16a3aac0cafd0c1], Use instead default
+[2020/12/18 23:18:04][WARN] Enabled Object[6626826f66aa4088a16a3aac0cafd0c1], Hooked by independent collector -> [me.krax.oversight.OversightGenericTest$OversightSample@class me.krax.oversight.Dummy@a881ae5b688d462f982539677a2aee23]
+[2020/12/18 23:18:04][DEBUG] Object[me.krax.oversight.OversightGenericTest$OversightSample::6626826f66aa4088a16a3aac0cafd0c1]: created complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

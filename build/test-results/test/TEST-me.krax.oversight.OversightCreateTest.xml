@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.krax.oversight.OversightCreateTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-18T14:18:04" hostname="DESKTOP-QUMCR62" time="0.003">
+  <properties/>
+  <testcase name="test" classname="me.krax.oversight.OversightCreateTest" time="0.002"/>
+  <testcase name="test2" classname="me.krax.oversight.OversightCreateTest" time="0.001"/>
+  <system-out><![CDATA[[2020/12/18 23:18:04][DEBUG] Creating Object[86fdd9dc734f46498b68944e83889679]
+[2020/12/18 23:18:04][WARN] Not existed collector of Object[me.krax.oversight.OversightCreateTest$OversightSample@86fdd9dc734f46498b68944e83889679], Use instead default
+[2020/12/18 23:18:04][WARN] Enabled Object[86fdd9dc734f46498b68944e83889679], Hooked by independent collector -> [me.krax.oversight.OversightCreateTest$OversightSample@class me.krax.oversight.Dummy@a881ae5b688d462f982539677a2aee23]
+[2020/12/18 23:18:04][DEBUG] Object[me.krax.oversight.OversightCreateTest$OversightSample::86fdd9dc734f46498b68944e83889679]: created complete
+[2020/12/18 23:18:04][DEBUG] Creating Object[676a481e4be640c78d3350b137c5c538]
+[2020/12/18 23:18:04][ERROR] Object[me.krax.oversight.OversightCreateTest$OversightSample::676a481e4be640c78d3350b137c5c538]: Failed to pass from preCreate() method
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
